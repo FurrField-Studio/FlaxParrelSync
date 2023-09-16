@@ -1,0 +1,14 @@
+{
+	"Name": "Flax Parrel Sync",
+	"Version": "1.0",
+	"Company": "Furrfield Studio",
+	"Copyright": "MIT License (c) 2018 Greg M (c) 2020 Ian and Contributors (c) 2023 Furrfield Studio",
+	"GameTarget": "FlaxParrelSyncTarget",
+	"EditorTarget": "FlaxParrelSyncEditorTarget",
+	"References": [
+		{
+			"Name": "$(EnginePath)/Flax.flaxproj"
+		}
+	],
+	"MinEngineVersion": "0.0.6167"
+}
